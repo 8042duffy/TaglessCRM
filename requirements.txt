@@ -110,7 +110,7 @@ pyasn1-modules==0.2.8
 pycparser==2.20
 pydata-google-auth==1.2.0
 Pygments==2.9.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyparsing==2.4.7
 pyrsistent==0.17.3
 pytest==6.2.2
